@@ -1,0 +1,7 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["m.dolbniak <m.dolbniak@trippiece.com>"]
+edition = "2018"
+
+[dependencies]
