@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    working_dir: /var/chat
+    volumes:
+      - .:/var/chat
+    ports:
+      - "9000:9000"
+      - "2222:22"
+
+volumes:
+  .:

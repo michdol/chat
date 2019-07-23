@@ -5,3 +5,4 @@ authors = ["m.dolbniak <m.dolbniak@trippiece.com>"]
 edition = "2018"
 
 [dependencies]
+tokio = "0.1"
