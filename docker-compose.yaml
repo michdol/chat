@@ -8,7 +8,7 @@ services:
       - .:/var/chat
     ports:
       - "9000:9000"
-      - "2222:22"
+      - "222asljdasjdkl2:22"
 
 volumes:
   .:
